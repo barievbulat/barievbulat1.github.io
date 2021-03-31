@@ -1,3 +1,9 @@
+# Бариев Булат
+[Актуальное резюме на hh.ru](https://kazan.hh.ru/resume/243787d0ff082e71060039ed1f316b71744a53)<br>
+[Предыдущее резюме на hh.ru](https://kazan.hh.ru/resume/04e0a609ff00a83a2b0039ed1f736563726574)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/barievbulat/barievbulat.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
